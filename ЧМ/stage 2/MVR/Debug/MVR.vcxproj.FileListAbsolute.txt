@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\programs\MVR\MVR\Debug\MVR.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\programs\MVR\MVR\Debug\MVR.MyForm.resources
+C:\Users\user\Desktop\programs\MVR\MVR\Debug\MVR.vcxproj.GenerateResource.cache
+C:\Users\user\tets1\MVR\MVR\Debug\MVR.vcxprojAssemblyReference.cache
+C:\Users\user\tets1\MVR\MVR\Debug\MVR.MyForm.resources
+C:\Users\user\tets1\MVR\MVR\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Git\chsilennyyeMethods-2021-2022\MVR\MVR\Debug\MVR.vcxproj.AssemblyReference.cache
+D:\Git\chsilennyyeMethods-2021-2022\MVR\MVR\Debug\MVR.vcxproj.SuggestedBindingRedirects.cache
+D:\Git\chsilennyyeMethods-2021-2022\MVR\MVR\Debug\MVR.MyForm.resources
+D:\Git\chsilennyyeMethods-2021-2022\MVR\MVR\Debug\MVR.vcxproj.GenerateResource.cache

@@ -1,0 +1,23 @@
+D:\Git\F\MVR\MVR\x64\Debug\MVR.vcxproj.AssemblyReference.cache
+D:\Git\F\MVR\MVR\x64\Debug\MVR.vcxproj.SuggestedBindingRedirects.cache
+D:\Git\F\MVR\MVR\x64\Debug\MVR.MyForm.resources
+D:\Git\F\MVR\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Git\F\st2 M\MVR\x64\Debug\MVR.vcxproj.AssemblyReference.cache
+D:\Git\F\st2 M\MVR\x64\Debug\MVR.vcxproj.SuggestedBindingRedirects.cache
+D:\Git\F\st2 M\MVR\x64\Debug\MVR.MyForm.resources
+D:\Git\F\st2 M\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+C:\Users\msoko\Desktop\мучения от Вероники\Новая папка\3\F\st2 M\MVR\x64\Debug\MVR.vcxprojAssemblyReference.cache
+C:\Users\msoko\Desktop\мучения от Вероники\Новая папка\3\F\st2 M\MVR\x64\Debug\MVR.MyForm.resources
+C:\Users\msoko\Desktop\мучения от Вероники\Новая папка\3\F\st2 M\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F\st2 M\MVR\x64\Debug\MVR.vcxprojAssemblyReference.cache
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F\st2 M\MVR\x64\Debug\MVR.MyForm.resources
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F\st2 M\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F — копия\st2 M\MVR\x64\Debug\MVR.vcxprojAssemblyReference.cache
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F — копия\st2 M\MVR\x64\Debug\MVR.MyForm.resources
+D:\Новая папка (2)\мучения от Вероники\Новая папка\4\F — копия\st2 M\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Study\ЧМ\Lab\Numerical-methods-main\Lab2\stage 2\MVR\x64\Debug\MVR.vcxproj.AssemblyReference.cache
+D:\Study\ЧМ\Lab\Numerical-methods-main\Lab2\stage 2\MVR\x64\Debug\MVR.MyForm.resources
+D:\Study\ЧМ\Lab\Numerical-methods-main\Lab2\stage 2\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache
+D:\Study\ЧМ\stage 2\MVR\x64\Debug\MVR.vcxproj.AssemblyReference.cache
+D:\Study\ЧМ\stage 2\MVR\x64\Debug\MVR.MyForm.resources
+D:\Study\ЧМ\stage 2\MVR\x64\Debug\MVR.vcxproj.GenerateResource.cache

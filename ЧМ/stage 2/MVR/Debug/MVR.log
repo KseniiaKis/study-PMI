@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Git\chsilennyyeMethods-2021-2022\MVR\MVR\MyForm.h(668,7): warning C4101: buffer: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MVR.vcxproj -> D:\Git\chsilennyyeMethods-2021-2022\MVR\Debug\MVR.exe
