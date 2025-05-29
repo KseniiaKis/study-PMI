@@ -1,0 +1,9 @@
+:Base C:\VV\KURSOV~1\SOURCE\CLASSES\DLL_OB~1\DLLHELP.HLP
+:Title Разработка DLL для лаборатории LocOpt
+1 Понятие объекта и модель представления объекта
+2 Понятие объекта и модель представления объекта=hc_Ponyatie_obekta_i_model_predstavleniya_obekta
+1 О правилах создания DLL
+2 О правилах создания DLL=hc_O_pravilah_sozdaniya_DLL
+1 Пример DLL
+2 Пример заголовочного файла DLL=hc_Primer_zagolovochnogo_fayla_DLL
+2 Пример реализации DLL=hc_Primer_realizatsii_DLL

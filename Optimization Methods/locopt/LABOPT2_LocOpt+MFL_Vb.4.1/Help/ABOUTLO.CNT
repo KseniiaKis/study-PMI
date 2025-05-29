@@ -1,0 +1,42 @@
+:Base D:\USER\GORO\PROGRA~1\CLASSES\HELP\ABOUTLO.HLP
+:Title Программная лаборатория локальной оптимизации LocO
+1 Назначение программной лаборатории
+2 Назначение программной лаборатории=hc_Naznachenie_programmnoy_laboratorii
+1 Концепции построения программной лаборатории
+2 Наборы функций и списки задач
+3 Наборы функций и списки задач=hc_Nabory_funktsiy_i_spiski_zadach
+3 Наборы функций=hc_Nabory_funktsiy
+3 Списки задач=hc_Spiski_zadach
+2 Порядок подготовки задач для исследования
+3 Подготовка задач для исследования=hc_Podgotovka_zadach_dlya_issledovaniya
+2 Проведение экспериментов при исследовании задач оптимизации
+3 Представление информации в окне эксперимента=hc_Predstavlenie_informatsii_v_okne_eksperimenta
+3 Выбор метода локальной оптимизации=hc_Vybor_metoda_lokalnoy_optimizatsii
+3 Выбор способа учета ограничений=hc_Vybor_sposoba_ucheta_ogranicheniy
+3 Изменение положения начальной точки=hc_Izmenenie_polozheniya_nachalnoy_tochki
+3 Автоматический выбор начальной точки локального поиска=hc_Avtomaticheskiy_vybor_nachalnoy_tochki_lokalnogo_poiska
+3 Выполнение расчета=hc_Vypolnenie_rascheta
+3 Редактирование исследуемой задачи=hc_Redaktirovanie_issleduemoy_zadachi
+3 Навигация по окнам экспериментов=hc_Navigatsiya_po_oknam_eksperimentov
+2 Отбор результатов для подготовки отчета по проведенному исследованию
+3 Общие принципы отбора данных для отчета=hc_Obschie_printsipy_otbora_dannyh_dlya_otcheta
+3 Отбор результатов из архива расчетов и их копирование=hc_Otbor_rezultatov_iz_arhiva_raschetov_i_ih_kopirovanie
+3 Копирование изображений с результатами расчетов=hc_Kopirovanie_izobrazheniy_s_rezultatami_raschetov
+1 Основные инструментальные средства
+2 Окно стандартного набора задач=hc_Okno_standartnogo_nabora_zadach
+2 Конструктор функций и задач=hc_Konstruktor_funktsiy_i_zadach
+2 Окно просмотра изолиний функций=hc_Okno_prosmotra_izoliniy_funktsiy
+2 Окно просмотра изолиний и структуры задачи=hc_Okno_prosmotra_izoliniy_i_struktury_zadachi
+2 Окно эксперимента=hc_Okno_eksperimenta
+2 Окно просмотра поверхности=hc_Okno_prosmotra_poverhnosti
+2 Окно для исследования одномерных сечений=hc_Okno_dlya_issledovaniya_odnomernyh_secheniy
+2 Окно настройки параметров расчета=hc_Okno_nastroyki_parametrov_rascheta
+2 Окно навигации по окнам экспериментов=hc_Okno_navigatsii_po_oknam_eksperimentov
+1 Интерфейс главного окна
+2 Интерфейс главного окна=hc_Interfeys_glavnogo_okna
+1 Использование конструктора функций и задач
+2 Использование конструктора функций и задач=hc_Ispolzovanie_konstruktora_funktsiy_i_zadach
+1 Интерфейс окна эксперимента
+2 Общая структура окна эксперимента=hc_Obschaya_struktura_okna_eksperimenta
+2 Выполнение расчетов в окне эксперимента=hc_Vypolnenie_raschetov_v_okne_eksperimenta
+2 Работа с архивом расчетов в окне эксперимента=hc_Rabota_s_arhivom_raschetov_v_okne_eksperimenta
